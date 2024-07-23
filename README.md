@@ -1,1 +1,14 @@
-# Testing-MP4-Scenes
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Looping Video</title>
+</head>
+<body>
+    <video width="1920" height="1080" controls autoplay loop muted>
+        <source src="https://github.com/KHaynes28/Testing-MP4-Scenes/raw/b756a12b1cc62336e56be758df24ef27c4d00e65/BRB%20Screen%20Mononoke.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
